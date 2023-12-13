@@ -1,4 +1,4 @@
-# Data-Science-Healthcare
+# Diabetes Prediction and Visualization: Exploring Data Science Techniques.
  Data Science Capstone Project Using Python and Tableau 10
 
 DESCRIPTION
