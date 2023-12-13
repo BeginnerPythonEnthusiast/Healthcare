@@ -1,4 +1,4 @@
-# Data-Science-Capstone-Healthcare
+# Data-Science-Healthcare
  Data Science Capstone Project Using Python and Tableau 10
 
 DESCRIPTION
